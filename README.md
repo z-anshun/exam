@@ -21,9 +21,9 @@
 
 ```json
 {
-    "id":int,//红包的id
-    "total":float64,//总金额
-    "number":int//个数
+    "id":"int",//红包的id
+    "total":"float64",//总金额
+    "number":"int"//个数
 }
 ```
 
@@ -37,9 +37,9 @@
 
 ```json
 {
-    "num":int,//个数
-    "minute":int,//持续分钟，不能少于三分钟
-    "content":string//匹配的内容
+    "num":"int",//个数
+    "minute":"int",//持续分钟，不能少于三分钟
+    "content":"string"//匹配的内容
 }
 ```
 
