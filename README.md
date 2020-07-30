@@ -81,7 +81,7 @@ content -> 内容
 
 [**dockerhub地址**](https://hub.docker.com/repository/docker/zas111/zas)(本地后面mysql无法连接 。。不知道能不能用)
 
-上云部署地址：101.201.140.26 
+上云部署地址：101.201.140.26 端口：8080
 
 ### 补充：
 
